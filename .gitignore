@@ -1,0 +1,6 @@
+#IDE's folders
+.vs/
+.idea/
+.vscode/
+src/.env.*
+*.icloud
