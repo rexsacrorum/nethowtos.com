@@ -1,4 +1,7 @@
 baseURL = 'https://nethowtos.com/'
 languageCode = 'en-us'
 title = '.Net HOWTOs'
-theme = 'PaperMod'
+# theme = "PaperMod"
+[module]
+    [[module.imports]]
+        path="github.com/adityatelange/hugo-PaperMod"
